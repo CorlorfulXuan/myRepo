@@ -3,9 +3,3 @@ second
 third
 forth
 fifth
-<<<<<<< HEAD
-love you
-=======
-love you
->>>>>>> dev
-love
